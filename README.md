@@ -14,16 +14,16 @@ Girilen key ile bir metni şifreleyen ve şifrelenmiş metini geri çözen bir a
         Return:
             Mission'a göre şifrelenmiş metin veya çözülmüş metin
 
-örn komut 
-<code>python hash.py -E -T "Projenin ilk versiyonu Github'a Yüklenmeye Hazır" -K "Github"</code>
-çıktı:
+örn komut <br>
+<code>python hash.py -E -T "Projenin ilk versiyonu Github'a Yüklenmeye Hazır" -K "Github"</code><br>
+çıktı:<br>
 <code>-ğ_=,t\yzİz?@UKq^Ez}?:{3
-:Gt{*xpU#g=x-BCq{rXX(~o_-</code>
-![Screenshot_20240211_043715](https://github.com/atalhatabak/Symmetric-Key-Encryption/assets/56918326/0e83cefd-ee40-4cd7-b5ff-cebaaaa2b56f)
+:Gt{*xpU#g=x-BCq{rXX(~o_-</code><br>
+![Screenshot_20240211_043715](https://github.com/atalhatabak/Symmetric-Key-Encryption/assets/56918326/0e83cefd-ee40-4cd7-b5ff-cebaaaa2b56f)<br>
 
-örn komut 
+örn komut <br>
 <code>python hash.py -D -T "-ğ_=,t\yzİz?@UKq^Ez}?:{3
-:Gt{*xpU#g=x-BCq{rXX(~o_-" -K "Github"</code>
-çıktı:
-<code>Projenin ilk versiyonu Github'a Yüklenmeye Hazır</code>
+:Gt{*xpU#g=x-BCq{rXX(~o_-" -K "Github"</code><br>
+çıktı:<br>
+<code>Projenin ilk versiyonu Github'a Yüklenmeye Hazır</code><br>
 ![Screenshot_20240211_043803](https://github.com/atalhatabak/Symmetric-Key-Encryption/assets/56918326/d4ebc952-887f-4b83-acca-1aec2527e276)
