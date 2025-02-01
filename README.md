@@ -1,5 +1,5 @@
 # Symmetric-Key-Encryption
-Girilen key ile bir metni şifreleyen ve şifrelenmiş metini geri çözen bir algoritma
+Girilen key ile bir metni şifreleyen ve şifrelenmiş metni geri çözen bir algoritma
 
 
         Kullanım: python hash [mission] [params] \n
